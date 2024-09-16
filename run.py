@@ -1,1 +1,1 @@
-importe ig58k
+import ig58k
